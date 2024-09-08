@@ -16,7 +16,7 @@ Below is a collection of SQL projects I've compiled and uploaded to GitHub. Plea
   - Nashville House Data Cleaning: A project dedicated to refining and organizing Nashville housing data for accurate analysis.
     https://github.com/krisnagilang/nashville-house-data-cleaning
 
-  - Customer Financial Transactions: A project involving a customers transactions activity.
+  - Customer Financial Transactions: A project involving a customers transactions activity, focusing on analyzing spending patterns, transaction frequency, and financial behavior.
     https://github.com/krisnagilang/customer-financial-transactions
 
 
