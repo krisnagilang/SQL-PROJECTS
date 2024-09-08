@@ -6,6 +6,9 @@ Below is a collection of SQL projects I've compiled and uploaded to GitHub. Plea
 
   - Covid-19 world cases EDA: A project analyzing global Covid-19 data trends and visualizing the spread of the virus.
     https://github.com/krisnagilang/exploratory-data-covid-19-global-cases
+  
+  - User behavior at Spotify: A project analyzing user activity patterns, listening habits, and preferences.
+    https://github.com/krisnagilang/spotify-user-behavior
 
   - Global Employee Layoff Data Cleaning: A project focused on cleaning and preparing global employee layoff data for analysis.
     https://github.com/krisnagilang/global-employee-layoff-data-cleaning
@@ -13,4 +16,7 @@ Below is a collection of SQL projects I've compiled and uploaded to GitHub. Plea
   - Nashville House Data Cleaning: A project dedicated to refining and organizing Nashville housing data for accurate analysis.
     https://github.com/krisnagilang/nashville-house-data-cleaning
 
-  - 
+  - Customer Financial Transactions: A project involving a customers transactions activity.
+    https://github.com/krisnagilang/customer-financial-transactions
+
+
